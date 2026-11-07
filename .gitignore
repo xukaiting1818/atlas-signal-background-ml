@@ -1,0 +1,9 @@
+# Downloaded automatically by the notebooks
+data-v2/
+notebooks/ucl_masterclass.py
+images/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
